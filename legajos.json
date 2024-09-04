@@ -1,0 +1,21 @@
+{
+    "2525": {
+        "nombre": "juan",
+        "apellido": "lopez",
+        "direccion": "las heras",
+        "anac": "1982",
+        "sb": "985000",
+        "hijos": [
+            {
+                "nombre": "maria",
+                "anac": "1982",
+                "estudia": "s"
+            },
+            {
+                "nombre": "miguel",
+                "anac": "1982",
+                "estudia": "s"
+            }
+        ]
+    }
+}
